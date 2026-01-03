@@ -1,1 +1,1 @@
-## E-Commerce Data Pipeline | <img src="https://raw.githubusercontent.com/upstreamcolor/ECommerce_Analytics-AWS/refs/heads/main/icons/aws.svg" width="18" />
+## E-Commerce Data Pipeline | <img src="https://raw.githubusercontent.com/upstreamcolor/ECommerce_Analytics-AWS/refs/heads/main/icons/aws.svg" width="23" />
